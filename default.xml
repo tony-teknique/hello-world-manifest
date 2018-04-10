@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="ssh://git@github.com/" name="github"/>
+  
+  <default remote="github" revision="master"/>
+  
+  <project name="tony-teknique/hello-world-repo.git" path="hello-world-repo/repo/" revision="14167c9526e679b2b9c05707c41dc74a59d8281b"/>
+  <project name="tony-teknique/hello-world.git" path="hello-world/repo" revision="09cc32c42cee6218be4eed217d670aec85811f51"/>
+</manifest>
